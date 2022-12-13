@@ -4,6 +4,10 @@
 
 #include "BENSCHILLIBOWL.h"
 
+//Keerthana Pullela
+//Khalil Scott-Shepherd
+//Jamarri White
+
 // Feel free to play with these numbers! This is a great way to
 // test your implementation.
 #define BENSCHILLIBOWL_SIZE 10

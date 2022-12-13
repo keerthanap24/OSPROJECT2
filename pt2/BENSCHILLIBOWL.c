@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include <time.h>
 
+//Keerthana Pullela
+//Khalil Scott-Shepherd
+//Jamarri White
+
 bool IsEmpty(BENSCHILLIBOWL* bcb);
 bool IsFull(BENSCHILLIBOWL* bcb);
 void AddOrderToBack(Order **orders, Order *order);

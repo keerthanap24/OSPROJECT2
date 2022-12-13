@@ -11,6 +11,10 @@
 #include <sys/mman.h>
 sem_t *mutex;
 
+//Keerthana Pullela
+//Khalil Scott-Shepherd
+//Jamarri White
+
 void  ChildProcess(int *SharedMemory) {
   int i, accountID, random_num;
   srand(getpid());
